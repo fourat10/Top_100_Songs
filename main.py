@@ -12,8 +12,8 @@ page = requests.get(url=url)
 
 # SPOTIFY
 
-client_id ="xxxx"
-client_secret = "xxxx"
+client_id ="617b8d2dd25d452a9aa84541f4992979"
+client_secret = "8b4558ee7ca8476099bd35f1f219cce2"
 redirect_uri = "https://www.billboard.com/charts/hot-100/2018-01-01/"
 scope = "playlist-modify-private playlist-modify-public"
 
